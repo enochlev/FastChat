@@ -161,6 +161,7 @@ SAMPLING_WEIGHTS = {
     "gpt-3.5-turbo": 2,
     "claude-2": 2,
     "claude-instant-1": 2,
+    "deluxe-chat-v1": 2,
     # tire 1
     "palm-2": 1.5,
     "llama-2-70b-chat": 1.5,
@@ -176,6 +177,7 @@ SAMPLING_WEIGHTS = {
     "vicuna-7b": 1.0,
     "llama-2-7b-chat": 1.0,
     "chatglm2-6b": 1.0,
+    "mistral-7b-instruct": 1.0,
     # deprecated
     "guanaco-33b": 1.0,
     "fastchat-t5-3b": 0.5,
